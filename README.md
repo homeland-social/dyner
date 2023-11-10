@@ -1,0 +1,2 @@
+# dyner
+Dynamic DNS manager
